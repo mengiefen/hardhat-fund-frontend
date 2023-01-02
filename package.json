@@ -1,0 +1,10 @@
+{
+  "name": "04-html-fund-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {}
+}
